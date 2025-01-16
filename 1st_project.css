@@ -1,0 +1,24 @@
+body{
+    background-color:#212121;
+    text-align: center;
+   margin: 50px 0;
+}
+.box{
+width: 50px;
+height: 50px;
+border:2px solid white;
+display: inline-block;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+
+#gray{
+    background-color: gray;
+}
